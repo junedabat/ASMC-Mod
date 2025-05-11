@@ -1,2 +1,2 @@
 # ASMC-Mod
-ASMC - Another Super Mario Craft mod for Fabric
+ASMC - **A**nother **S**uper **M**ario **C**raft - mod for Fabric 1.21.5 *(W.I.P.)*
